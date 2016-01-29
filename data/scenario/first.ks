@@ -12,6 +12,9 @@
 
 ;live2D対応
 
+[call storage="system/live2d.ks"]
+[call storage="system/live2d_define.ks"]
+
 
 
 [layopt layer="message0" visible=false]

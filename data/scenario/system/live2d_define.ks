@@ -1,2 +1,2 @@
-;キャラクター定義用の事前ロード用のタグ
-
+[live2d_new name="izumi_illust"]
+[return] 
